@@ -17,4 +17,4 @@ Każdy obiekt drzwi zapewnia metody synchronizacji i kolejkowania przejścia prz
 **Table**  
 Podobnie jak w przypadku drzwi, zapewnia metody synchronizacji klietów i kelnerów przy obiekcie stolika.
 
-![](src/screenshots/screenshot.png)
+![](screenshots/screenshot.png)
