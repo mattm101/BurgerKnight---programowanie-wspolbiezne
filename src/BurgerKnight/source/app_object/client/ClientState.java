@@ -1,0 +1,16 @@
+package com.malecmateusz.burger_knight.app_object.client;
+public enum ClientState {
+	ENTER1,
+	SEARCHFORTABLE2,
+	FINDDOORS3,
+	GOTODOORS4,
+	WAITATDOORS5,
+	PASSIN6,
+	GOTOTABLE7,
+	ATTABLE8,
+	GETOUT9,
+	PASSOUT10,
+	MOVETODOORS11,
+	WAITTOPASS12,
+	FINALPASS13;
+}
